@@ -1,13 +1,11 @@
-package com.devtiro.starter;
+package com.deviro.maven;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class StarterApplicationTests {
+class PizzaApplicationIT {
 
-	@Test
-	void contextLoads() {
-	}
-
+  @Test
+  void contextLoads() {}
 }
